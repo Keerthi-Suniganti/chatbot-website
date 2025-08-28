@@ -1,5 +1,5 @@
 import streamlit as st
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 
 # ------------------------
 # Website title & Shinchan Watermark
